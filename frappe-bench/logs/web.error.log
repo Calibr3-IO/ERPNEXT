@@ -1,0 +1,14 @@
+[2017-08-17 19:40:35 +0000] [4044] [INFO] Starting gunicorn 19.7.1
+[2017-08-17 19:40:35 +0000] [4044] [INFO] Listening at: http://127.0.0.1:8000 (4044)
+[2017-08-17 19:40:35 +0000] [4044] [INFO] Using worker: sync
+[2017-08-17 19:40:35 +0000] [4193] [INFO] Booting worker with pid: 4193
+[2017-08-17 19:40:35 +0000] [4194] [INFO] Booting worker with pid: 4194
+[2017-08-17 19:40:35 +0000] [4044] [INFO] Handling signal: term
+[2017-08-17 19:40:35 +0000] [4193] [INFO] Worker exiting (pid: 4193)
+[2017-08-17 19:40:35 +0000] [4194] [INFO] Worker exiting (pid: 4194)
+[2017-08-17 19:40:36 +0000] [4044] [INFO] Shutting down: Master
+[2017-08-17 19:40:39 +0000] [4229] [INFO] Starting gunicorn 19.7.1
+[2017-08-17 19:40:39 +0000] [4229] [INFO] Listening at: http://127.0.0.1:8000 (4229)
+[2017-08-17 19:40:39 +0000] [4229] [INFO] Using worker: sync
+[2017-08-17 19:40:39 +0000] [4278] [INFO] Booting worker with pid: 4278
+[2017-08-17 19:40:39 +0000] [4279] [INFO] Booting worker with pid: 4279

@@ -1205,3 +1205,28 @@
 13:01:57 Result is kept for 500 seconds
 13:01:57 
 13:01:57 *** Listening on short...
+13:05:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (f5d02d9c-c4ac-48fe-8349-73ab4a24bf2a)
+13:05:57 short: Job OK (f5d02d9c-c4ac-48fe-8349-73ab4a24bf2a)
+13:05:57 Result is kept for 500 seconds
+13:05:57 
+13:05:57 *** Listening on short...
+13:05:57 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (c7f35206-a2aa-423a-9693-62ffcd8aac35)
+13:05:57 short: Job OK (c7f35206-a2aa-423a-9693-62ffcd8aac35)
+13:05:57 Result is kept for 500 seconds
+13:05:57 
+13:05:57 *** Listening on short...
+13:05:57 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (b30a5910-dc70-4e73-9688-389eb1a5b3e9)
+13:05:57 short: Job OK (b30a5910-dc70-4e73-9688-389eb1a5b3e9)
+13:05:57 Result is kept for 500 seconds
+13:05:57 
+13:05:57 *** Listening on short...
+13:05:57 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (8b1138d1-17c2-41e4-93dc-22334c2eb0c5)
+13:05:57 short: Job OK (8b1138d1-17c2-41e4-93dc-22334c2eb0c5)
+13:05:57 Result is kept for 500 seconds
+13:05:57 
+13:05:57 *** Listening on short...
+13:05:57 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (b2bfd549-70fd-4fff-8370-00c276a184d5)
+13:05:57 short: Job OK (b2bfd549-70fd-4fff-8370-00c276a184d5)
+13:05:57 Result is kept for 500 seconds
+13:05:57 
+13:05:57 *** Listening on short...

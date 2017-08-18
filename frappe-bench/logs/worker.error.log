@@ -919,3 +919,289 @@
 12:21:53 Result is kept for 500 seconds
 12:21:54 
 12:21:54 *** Listening on short...
+12:25:53 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (f19df963-da26-4c05-9c9f-0bf42ddbc9fc)
+12:25:53 short: Job OK (f19df963-da26-4c05-9c9f-0bf42ddbc9fc)
+12:25:53 Result is kept for 500 seconds
+12:25:53 
+12:25:53 *** Listening on short...
+12:25:53 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (977c20fa-fe62-4327-88f8-db80b2c27e02)
+12:25:53 short: Job OK (977c20fa-fe62-4327-88f8-db80b2c27e02)
+12:25:53 Result is kept for 500 seconds
+12:25:53 
+12:25:53 *** Listening on short...
+12:25:53 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (0b5dde5d-097d-4cde-95e3-c7a72ddaa8ff)
+12:25:54 short: Job OK (0b5dde5d-097d-4cde-95e3-c7a72ddaa8ff)
+12:25:54 Result is kept for 500 seconds
+12:25:54 
+12:25:54 *** Listening on short...
+12:25:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (2179a165-9c2f-4d10-bd02-1cc14a631d0b)
+12:25:54 short: Job OK (2179a165-9c2f-4d10-bd02-1cc14a631d0b)
+12:25:54 Result is kept for 500 seconds
+12:25:54 
+12:25:54 *** Listening on short...
+12:25:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (81ed46bb-dc08-4d86-9dbf-e7d09d0a5bc9)
+12:25:54 short: Job OK (81ed46bb-dc08-4d86-9dbf-e7d09d0a5bc9)
+12:25:54 Result is kept for 500 seconds
+12:25:54 
+12:25:54 *** Listening on short...
+12:29:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (ccabd96a-9494-4d41-b2e3-46ce8d4fad1e)
+12:29:54 short: Job OK (ccabd96a-9494-4d41-b2e3-46ce8d4fad1e)
+12:29:54 Result is kept for 500 seconds
+12:29:54 
+12:29:54 *** Listening on short...
+12:29:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (4b7e6c35-0616-4f6e-9629-d666fe3bc84f)
+12:29:54 short: Job OK (4b7e6c35-0616-4f6e-9629-d666fe3bc84f)
+12:29:54 Result is kept for 500 seconds
+12:29:54 
+12:29:54 *** Listening on short...
+12:29:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (ba55040d-7b18-4275-b4ba-b1fa4ceb9805)
+12:29:54 short: Job OK (ba55040d-7b18-4275-b4ba-b1fa4ceb9805)
+12:29:54 Result is kept for 500 seconds
+12:29:54 
+12:29:54 *** Listening on short...
+12:29:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (753ccbe3-04de-42c5-af4d-c390a4eb2142)
+12:29:54 short: Job OK (753ccbe3-04de-42c5-af4d-c390a4eb2142)
+12:29:54 Result is kept for 500 seconds
+12:29:54 
+12:29:54 *** Listening on short...
+12:29:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (e43c0e21-ee37-4203-9711-b661d34f1e11)
+12:29:54 short: Job OK (e43c0e21-ee37-4203-9711-b661d34f1e11)
+12:29:54 Result is kept for 500 seconds
+12:29:54 
+12:29:54 *** Listening on short...
+12:33:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (5a0f29e7-9860-4d98-a5cb-11bd16d33f19)
+12:33:54 short: Job OK (5a0f29e7-9860-4d98-a5cb-11bd16d33f19)
+12:33:54 Result is kept for 500 seconds
+12:33:54 Cleaning registries for queue: short
+12:33:54 
+12:33:54 *** Listening on short...
+12:33:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (ca2f05ab-812b-4853-b2c9-db186d851f78)
+12:33:54 short: Job OK (ca2f05ab-812b-4853-b2c9-db186d851f78)
+12:33:54 Result is kept for 500 seconds
+12:33:54 
+12:33:54 *** Listening on short...
+12:33:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (292e5f1e-49a4-4ae7-947a-c6084890ea38)
+12:33:54 short: Job OK (292e5f1e-49a4-4ae7-947a-c6084890ea38)
+12:33:54 Result is kept for 500 seconds
+12:33:54 
+12:33:54 *** Listening on short...
+12:33:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (6e511865-fddf-4886-94b6-a5a5a4110b92)
+12:33:54 short: Job OK (6e511865-fddf-4886-94b6-a5a5a4110b92)
+12:33:54 Result is kept for 500 seconds
+12:33:54 
+12:33:54 *** Listening on short...
+12:33:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (f1350fe6-9070-4d7d-87f1-e185461aa1d0)
+12:33:54 short: Job OK (f1350fe6-9070-4d7d-87f1-e185461aa1d0)
+12:33:54 Result is kept for 500 seconds
+12:33:54 
+12:33:54 *** Listening on short...
+12:37:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (61467894-1906-4356-818b-0d15619ac395)
+12:37:54 short: Job OK (61467894-1906-4356-818b-0d15619ac395)
+12:37:54 Result is kept for 500 seconds
+12:37:54 
+12:37:54 *** Listening on short...
+12:37:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (79f5570e-63b7-4662-a7c1-3b8c669c24fa)
+12:37:54 short: Job OK (79f5570e-63b7-4662-a7c1-3b8c669c24fa)
+12:37:54 Result is kept for 500 seconds
+12:37:54 
+12:37:54 *** Listening on short...
+12:37:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (ca3bed8b-ec0f-44a4-9c66-88eca9ff6006)
+12:37:54 short: Job OK (ca3bed8b-ec0f-44a4-9c66-88eca9ff6006)
+12:37:54 Result is kept for 500 seconds
+12:37:54 
+12:37:54 *** Listening on short...
+12:37:54 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (8f81aaea-3d12-403e-85fd-415a110c8c72)
+12:37:55 short: Job OK (8f81aaea-3d12-403e-85fd-415a110c8c72)
+12:37:55 Result is kept for 500 seconds
+12:37:55 
+12:37:55 *** Listening on short...
+12:37:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (abc1b9be-29c6-4f95-8a86-fd35dc13a413)
+12:37:55 short: Job OK (abc1b9be-29c6-4f95-8a86-fd35dc13a413)
+12:37:55 Result is kept for 500 seconds
+12:37:55 
+12:37:55 *** Listening on short...
+12:41:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (0dae669d-a4cd-42df-b941-e9f92cd1481c)
+12:41:55 short: Job OK (0dae669d-a4cd-42df-b941-e9f92cd1481c)
+12:41:55 Result is kept for 500 seconds
+12:41:55 
+12:41:55 *** Listening on short...
+12:41:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (367d3d4f-c529-44e5-ac35-25588934859b)
+12:41:55 short: Job OK (367d3d4f-c529-44e5-ac35-25588934859b)
+12:41:55 Result is kept for 500 seconds
+12:41:55 
+12:41:55 *** Listening on short...
+12:41:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (10610476-84c8-422a-a73f-bac249c51192)
+12:41:55 short: Job OK (10610476-84c8-422a-a73f-bac249c51192)
+12:41:55 Result is kept for 500 seconds
+12:41:55 
+12:41:55 *** Listening on short...
+12:41:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (08896267-4ce4-4b72-bf3f-f6220fa218ae)
+12:41:55 short: Job OK (08896267-4ce4-4b72-bf3f-f6220fa218ae)
+12:41:55 Result is kept for 500 seconds
+12:41:55 
+12:41:55 *** Listening on short...
+12:41:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (da458683-4869-4f60-abb8-225864d16f49)
+12:41:55 short: Job OK (da458683-4869-4f60-abb8-225864d16f49)
+12:41:55 Result is kept for 500 seconds
+12:41:55 
+12:41:55 *** Listening on short...
+12:45:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (ebc410dd-9528-4cbc-9230-faecde5eb4b0)
+12:45:55 short: Job OK (ebc410dd-9528-4cbc-9230-faecde5eb4b0)
+12:45:55 Result is kept for 500 seconds
+12:45:55 
+12:45:55 *** Listening on short...
+12:45:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (a42ba56e-8bc8-4bec-aa63-2a72a7b37205)
+12:45:55 short: Job OK (a42ba56e-8bc8-4bec-aa63-2a72a7b37205)
+12:45:55 Result is kept for 500 seconds
+12:45:55 
+12:45:55 *** Listening on short...
+12:45:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (5eddc8e6-8598-47e1-908b-4cfa375138db)
+12:45:55 short: Job OK (5eddc8e6-8598-47e1-908b-4cfa375138db)
+12:45:55 Result is kept for 500 seconds
+12:45:55 
+12:45:55 *** Listening on short...
+12:45:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (214b3907-2e17-4808-948c-0a2c6e5ef973)
+12:45:55 short: Job OK (214b3907-2e17-4808-948c-0a2c6e5ef973)
+12:45:55 Result is kept for 500 seconds
+12:45:55 
+12:45:55 *** Listening on short...
+12:45:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (4019b41e-e686-484e-8dd7-5625dfe6a000)
+12:45:55 short: Job OK (4019b41e-e686-484e-8dd7-5625dfe6a000)
+12:45:55 Result is kept for 500 seconds
+12:45:55 
+12:45:55 *** Listening on short...
+12:49:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (49a64e7a-b56a-4ad2-a688-3b67bf3c8dbb)
+12:49:55 short: Job OK (49a64e7a-b56a-4ad2-a688-3b67bf3c8dbb)
+12:49:55 Result is kept for 500 seconds
+12:49:55 
+12:49:55 *** Listening on short...
+12:49:55 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (a1a53be8-ea18-48d4-a813-57193d7d4249)
+12:49:56 short: Job OK (a1a53be8-ea18-48d4-a813-57193d7d4249)
+12:49:56 Result is kept for 500 seconds
+12:49:56 
+12:49:56 *** Listening on short...
+12:49:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (9598196b-7b82-48e3-8159-5d5d11f0e965)
+12:49:56 short: Job OK (9598196b-7b82-48e3-8159-5d5d11f0e965)
+12:49:56 Result is kept for 500 seconds
+12:49:56 
+12:49:56 *** Listening on short...
+12:49:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (cdaffa1d-d5d8-4a4f-9a81-581d7274e15c)
+12:49:56 short: Job OK (cdaffa1d-d5d8-4a4f-9a81-581d7274e15c)
+12:49:56 Result is kept for 500 seconds
+12:49:56 
+12:49:56 *** Listening on short...
+12:49:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (4b43d674-49ba-40ac-9882-9effea693439)
+12:49:56 short: Job OK (4b43d674-49ba-40ac-9882-9effea693439)
+12:49:56 Result is kept for 500 seconds
+12:49:56 
+12:49:56 *** Listening on short...
+12:53:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (1ef64bf8-2ac3-4c3d-a611-1ccc725a4015)
+12:53:56 short: Job OK (1ef64bf8-2ac3-4c3d-a611-1ccc725a4015)
+12:53:56 Result is kept for 500 seconds
+12:53:56 
+12:53:56 *** Listening on short...
+12:53:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (4f5f4d13-03eb-46ed-acea-1cc1bd460971)
+12:53:56 short: Job OK (4f5f4d13-03eb-46ed-acea-1cc1bd460971)
+12:53:56 Result is kept for 500 seconds
+12:53:56 
+12:53:56 *** Listening on short...
+12:53:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (66bb9c83-0f20-4970-87ea-b399618d4c8b)
+12:53:56 short: Job OK (66bb9c83-0f20-4970-87ea-b399618d4c8b)
+12:53:56 Result is kept for 500 seconds
+12:53:56 
+12:53:56 *** Listening on short...
+12:53:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (5f6b3d7a-ac55-452c-8f2d-750034f41b9c)
+12:53:56 short: Job OK (5f6b3d7a-ac55-452c-8f2d-750034f41b9c)
+12:53:56 Result is kept for 500 seconds
+12:53:56 
+12:53:56 *** Listening on short...
+12:53:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (0a492fa4-c1ae-49db-b951-5cf94e3febdc)
+12:53:56 short: Job OK (0a492fa4-c1ae-49db-b951-5cf94e3febdc)
+12:53:56 Result is kept for 500 seconds
+12:53:56 
+12:53:56 *** Listening on short...
+12:57:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (10e5982f-5075-4f86-8df6-0fec280a38e7)
+12:57:56 short: Job OK (10e5982f-5075-4f86-8df6-0fec280a38e7)
+12:57:56 Result is kept for 500 seconds
+12:57:56 
+12:57:56 *** Listening on short...
+12:57:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (2ad92990-3f13-432a-862a-8e259843ba15)
+12:57:56 short: Job OK (2ad92990-3f13-432a-862a-8e259843ba15)
+12:57:56 Result is kept for 500 seconds
+12:57:56 
+12:57:56 *** Listening on short...
+12:57:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (8a708551-8134-4666-a997-58d2d641681c)
+12:57:56 short: Job OK (8a708551-8134-4666-a997-58d2d641681c)
+12:57:56 Result is kept for 500 seconds
+12:57:56 
+12:57:56 *** Listening on short...
+12:57:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (b4142003-e494-44d6-8573-aec07d4acf10)
+12:57:56 short: Job OK (b4142003-e494-44d6-8573-aec07d4acf10)
+12:57:56 Result is kept for 500 seconds
+12:57:56 
+12:57:56 *** Listening on short...
+12:57:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (5a453185-f5c8-4024-93a6-fb0a297f82b7)
+12:57:56 short: Job OK (5a453185-f5c8-4024-93a6-fb0a297f82b7)
+12:57:56 Result is kept for 500 seconds
+12:57:56 
+12:57:56 *** Listening on short...
+13:01:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'hourly', job_name=u'frappe.model.utils.link_count.update_link_count', kwargs={}, method=u'frappe.model.utils.link_count.update_link_count', site=u'site1.local', user=u'Administrator') (e84328af-07ea-4f90-99f6-f51edef5db88)
+13:01:56 short: Job OK (e84328af-07ea-4f90-99f6-f51edef5db88)
+13:01:56 Result is kept for 500 seconds
+13:01:56 
+13:01:56 *** Listening on short...
+13:01:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'hourly', job_name=u'frappe.model.utils.user_settings.sync_user_settings', kwargs={}, method=u'frappe.model.utils.user_settings.sync_user_settings', site=u'site1.local', user=u'Administrator') (cf0e984f-5515-4223-a298-2a09640d9da9)
+13:01:56 short: Job OK (cf0e984f-5515-4223-a298-2a09640d9da9)
+13:01:56 Result is kept for 500 seconds
+13:01:56 
+13:01:56 *** Listening on short...
+13:01:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'hourly', job_name=u'frappe.utils.error.collect_error_snapshots', kwargs={}, method=u'frappe.utils.error.collect_error_snapshots', site=u'site1.local', user=u'Administrator') (a2fd1d77-f827-4381-98f3-ac7593d185ee)
+13:01:56 short: Job OK (a2fd1d77-f827-4381-98f3-ac7593d185ee)
+13:01:56 Result is kept for 500 seconds
+13:01:56 
+13:01:56 *** Listening on short...
+13:01:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'hourly', job_name=u'frappe.desk.page.backups.backups.delete_downloadable_backups', kwargs={}, method=u'frappe.desk.page.backups.backups.delete_downloadable_backups', site=u'site1.local', user=u'Administrator') (3869c90a-a57a-40cf-88f5-65a4c1691cc6)
+13:01:56 short: Job OK (3869c90a-a57a-40cf-88f5-65a4c1691cc6)
+13:01:56 Result is kept for 500 seconds
+13:01:56 
+13:01:56 *** Listening on short...
+13:01:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'hourly', job_name=u'frappe.limits.update_space_usage', kwargs={}, method=u'frappe.limits.update_space_usage', site=u'site1.local', user=u'Administrator') (e1baed34-8419-4540-8e10-2477954b0240)
+13:01:56 short: Job OK (e1baed34-8419-4540-8e10-2477954b0240)
+13:01:56 Result is kept for 500 seconds
+13:01:56 
+13:01:56 *** Listening on short...
+13:01:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'hourly', job_name=u'erpnext.controllers.recurring_document.create_recurring_documents', kwargs={}, method=u'erpnext.controllers.recurring_document.create_recurring_documents', site=u'site1.local', user=u'Administrator') (4e7a3c49-69b0-4bb9-a646-39ad51781965)
+13:01:56 short: Job OK (4e7a3c49-69b0-4bb9-a646-39ad51781965)
+13:01:56 Result is kept for 500 seconds
+13:01:56 
+13:01:56 *** Listening on short...
+13:01:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'hourly', job_name=u'erpnext.hr.doctype.daily_work_summary_settings.daily_work_summary_settings.trigger_emails', kwargs={}, method=u'erpnext.hr.doctype.daily_work_summary_settings.daily_work_summary_settings.trigger_emails', site=u'site1.local', user=u'Administrator') (468987c8-272c-4d0f-8085-3c38e28bd2e6)
+13:01:56 short: Job OK (468987c8-272c-4d0f-8085-3c38e28bd2e6)
+13:01:56 Result is kept for 500 seconds
+13:01:56 
+13:01:56 *** Listening on short...
+13:01:56 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.queue.flush', kwargs={}, method=u'frappe.email.queue.flush', site=u'site1.local', user=u'Administrator') (27509a93-4abc-4255-8c3b-68d6e005bd6f)
+13:01:57 short: Job OK (27509a93-4abc-4255-8c3b-68d6e005bd6f)
+13:01:57 Result is kept for 500 seconds
+13:01:57 
+13:01:57 *** Listening on short...
+13:01:57 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.pull', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.pull', site=u'site1.local', user=u'Administrator') (6430d43b-d343-4da5-a889-cb50be101326)
+13:01:57 short: Job OK (6430d43b-d343-4da5-a889-cb50be101326)
+13:01:57 Result is kept for 500 seconds
+13:01:57 
+13:01:57 *** Listening on short...
+13:01:57 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method=u'frappe.email.doctype.email_account.email_account.notify_unreplied', site=u'site1.local', user=u'Administrator') (b3369cc5-3fb7-4411-a4f5-2bbc5a56c216)
+13:01:57 short: Job OK (b3369cc5-3fb7-4411-a4f5-2bbc5a56c216)
+13:01:57 Result is kept for 500 seconds
+13:01:57 
+13:01:57 *** Listening on short...
+13:01:57 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.oauth.delete_oauth2_data', kwargs={}, method=u'frappe.oauth.delete_oauth2_data', site=u'site1.local', user=u'Administrator') (892d9297-8578-4e84-ac7b-7cf98037d1fd)
+13:01:57 short: Job OK (892d9297-8578-4e84-ac7b-7cf98037d1fd)
+13:01:57 Result is kept for 500 seconds
+13:01:57 
+13:01:57 *** Listening on short...
+13:01:57 short: frappe.utils.background_jobs.execute_job(async=True, event=u'all', job_name=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method=u'frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site=u'site1.local', user=u'Administrator') (641300fc-6562-4ecc-981b-5b9498345f2a)
+13:01:57 short: Job OK (641300fc-6562-4ecc-981b-5b9498345f2a)
+13:01:57 Result is kept for 500 seconds
+13:01:57 
+13:01:57 *** Listening on short...
